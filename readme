@@ -1,0 +1,1 @@
+Python project to automize industry classification game based on the paper of Prof. Bujaki. The program retrieves financial statements data from TMX website and prepares common size financial statements and calculates financial ratios for s&p/tsx60 companies. The data is then automatically written onto Excel spreadsheet.
